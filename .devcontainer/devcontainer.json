@@ -36,7 +36,17 @@
 				"codezombiech.gitignore",
 				"GitHub.vscode-pull-request-github",
 				"GitHub.vscode-github-actions",
-				"hossaini.bootstrap-intellisense"
+				"hossaini.bootstrap-intellisense",
+				"batisteo.vscode-django",
+				"bibhasdn.django-html",
+				"bibhasdn.django-snippets",
+				"dsznajder.es7-react-js-snippets",
+				"njpwerner.autodocstring",
+				"ms-python.isort",
+				"ms-python.black-formatter",
+				"ms-python.flake8",
+				"MaxChamps.django-commands",
+				"tomoki1207.pdf"
 			]
 		}
 	}

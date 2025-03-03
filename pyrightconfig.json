@@ -1,0 +1,7 @@
+{
+    "reportMissingTypeStubs": false,
+    "extraPaths": [
+        "./venv/lib/python3.12.8/site-packages"
+    ],
+    "python.analysis.typeCheckingMode": "strict"
+}
