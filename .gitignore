@@ -1,0 +1,8 @@
+*
+
+!.vscode/
+!.gitignore
+!.github/
+!.devcontainer/
+!README.md
+!pyrightconfig.json
