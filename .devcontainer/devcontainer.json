@@ -46,7 +46,10 @@
 				"ms-python.black-formatter",
 				"ms-python.flake8",
 				"MaxChamps.django-commands",
-				"tomoki1207.pdf"
+				"tomoki1207.pdf",
+				"sidthesloth.html5-boilerplate",
+				"ecmel.vscode-html-css",
+				"BracketPairColorDLW.bracket-pair-color-dlw"
 			]
 		}
 	}
