@@ -13,7 +13,8 @@
 		"ghcr.io/devcontainers/features/git:1": {},
 		"ghcr.io/devcontainers/features/git-lfs:1": {},
 		"ghcr.io/devcontainers/features/github-cli:1": {},
-		"ghcr.io/devcontainers/features/node:1": {}
+		"ghcr.io/devcontainers/features/node:1": {},
+		"ghcr.io/devcontainers/features/php:1": {}
 	},
 	"customizations": {
 		"vscode": {
@@ -50,7 +51,9 @@
 				"sidthesloth.html5-boilerplate",
 				"ecmel.vscode-html-css",
 				"BracketPairColorDLW.bracket-pair-color-dlw",
-				"esbenp.prettier-vscode"
+				"esbenp.prettier-vscode",
+				"DEVSENSE.phptools-vscode",
+				"xdebug.php-pack"
 			]
 		}
 	}
