@@ -51,7 +51,9 @@
 				"ecmel.vscode-html-css",
 				"BracketPairColorDLW.bracket-pair-color-dlw",
 				"bradlc.vscode-tailwindcss",
-				"esbenp.prettier-vscode"
+				"esbenp.prettier-vscode",
+				"expo.vscode-expo-tools",
+				"expo.vscode-expo-theme"
 			]
 		}
 	}
