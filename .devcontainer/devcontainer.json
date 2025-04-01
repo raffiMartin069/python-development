@@ -50,7 +50,8 @@
 				"sidthesloth.html5-boilerplate",
 				"ecmel.vscode-html-css",
 				"BracketPairColorDLW.bracket-pair-color-dlw",
-				"bradlc.vscode-tailwindcss"
+				"bradlc.vscode-tailwindcss",
+				"esbenp.prettier-vscode"
 			]
 		}
 	}

@@ -1,6 +1,7 @@
 *
 
 !.vscode/
+!.vscode/launch.json
 !.gitignore
 !.github/
 !.devcontainer/
