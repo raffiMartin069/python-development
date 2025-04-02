@@ -1,8 +1,11 @@
 {
-    "python.analysis.typeCheckingMode": "basic",
+    // "python.analysis.typeCheckingMode": "basic",
     "python.analysis.diagnosticMode": "workspace",
     "python.analysis.autoImportCompletions": true,
-    "python.analysis.useLibraryCodeForTypes": true,
+    // "python.analysis.useLibraryCodeForTypes": true,
     "python.languageServer": "Pylance",
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": true,
 }
