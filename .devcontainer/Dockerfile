@@ -5,3 +5,5 @@ RUN apt-get update -y && \
     apt-get install nginx -y
 
 RUN pip install django-stubs
+
+RUN npm i @expo/ngrok
