@@ -56,7 +56,7 @@
 				"expo.vscode-expo-theme"
 			]
 		}
-	}
+	},
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
@@ -65,7 +65,8 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "pip3 install --user -r requirements.txt",
+	// "postCreateCommand": ["pip3 install --user -r requirements.txt]",
+	"postCreateCommand":"sudo apt install -y && sudo apt-get update -y && sudo apt-get upgrade -y && npm install -g npm@11.2.0 && npm install --global expo/ngrok"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
