@@ -54,7 +54,7 @@
 				"esbenp.prettier-vscode"
 			]
 		}
-	}
+	},
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
@@ -64,6 +64,7 @@
 
 	// Use 'postCreateCommand' to run commands after the container is created.
 	// "postCreateCommand": "pip3 install --user -r requirements.txt",
+	"postCreateCommand": "sudo apt install -y && sudo apt-get update -y && sudo apt-get upgrade -y"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
