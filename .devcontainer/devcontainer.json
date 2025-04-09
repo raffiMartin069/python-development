@@ -51,7 +51,11 @@
 				"ecmel.vscode-html-css",
 				"BracketPairColorDLW.bracket-pair-color-dlw",
 				"bradlc.vscode-tailwindcss",
-				"esbenp.prettier-vscode"
+				"esbenp.prettier-vscode",
+				"oderwat.indent-rainbow",
+				"DavidAnson.vscode-markdownlint",
+				"christian-kohler.npm-intellisense",
+				"KevinRose.vsc-python-indent"
 			]
 		}
 	},
